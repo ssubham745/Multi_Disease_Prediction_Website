@@ -43,5 +43,10 @@ The application is built using **Python**, **Scikit-learn**, and **Streamlit**, 
 - **Heart Disease Dataset**  
   Age, gender, chest pain type, cholesterol, blood pressure, heart rate, etc.
 
+  ---
+  ## Screenshot of the website
+  <img width="959" height="502" alt="image" src="https://github.com/user-attachments/assets/9a768333-c6d8-4aa2-8c73-3629a08941f8" />
+
+
 
 
